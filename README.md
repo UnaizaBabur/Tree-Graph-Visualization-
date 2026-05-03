@@ -1,7 +1,7 @@
 # Tree Graph Visualization
 
 ## Top Down Tree
-![Tree1](images/tree1.png)
+<img width="766" height="448" alt="image" src="https://github.com/user-attachments/assets/634711b1-3938-4a27-a074-4d538efe3c55" />
 
 ## Radial Tree
 ![Tree2](images/tree2.png)
