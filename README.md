@@ -7,11 +7,8 @@
 <img width="627" height="497" alt="image" src="https://github.com/user-attachments/assets/6627a303-2ad4-4d5a-8714-ac0dea6a6ae0" />
 
 ## Network Graph
-![Graph1](images/graph1.png)
+<img width="725" height="481" alt="image" src="https://github.com/user-attachments/assets/13c2c3f3-a46d-48b9-8373-61ddc0da043e" />
 
 ## Circular Community Graph
 ![Graph2](images/graph2.png)
 
-## Files
-- A4_2023739.ipynb
-- index.html
