@@ -10,5 +10,6 @@
 <img width="725" height="481" alt="image" src="https://github.com/user-attachments/assets/13c2c3f3-a46d-48b9-8373-61ddc0da043e" />
 
 ## Circular Community Graph
-![Graph2](images/graph2.png)
+<img width="726" height="538" alt="image" src="https://github.com/user-attachments/assets/15c8d9a5-ad68-48b7-89cf-ccf04b45bfc3" />
+
 
